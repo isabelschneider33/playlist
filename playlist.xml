@@ -1,0 +1,64 @@
+<?xml-stylesheet type="text/css" href="playliststyle.css"?>
+<playlist>
+  <band> Rocketship </band>
+  <song>
+    <title> Title: Girls </title>
+    <artist> Artist: Girl in Red </artist>
+    <genre> Genre: Indie pop </genre>
+    <year> Year: 2018 </year>
+  </song>
+  <song>
+    <title> Title: Would You be so Kind </title>
+    <artist> Artist: Dodie </artist>
+    <genre> Genre: Folk </genre>
+    <year> Year: 2018 </year>
+  </song>
+  <song>
+    <title> Title: Cruel to be Kind </title>
+    <artist> Artist: Letters to Cleo </artist>
+    <genre> Genre: Rock </genre>
+    <year> Year: 1978 </year>
+  </song>
+  <song>
+    <title> Title: Easier Said Than Done </title>
+    <artist> Artist: Plested </artist>
+    <genre> Genre: Pop </genre>
+    <year> Year: 1999 </year>
+  </song>
+  <song>
+    <title> Title: The Good in Goodbye </title>
+    <artist> Artist: Alexander Wren </artist>
+    <genre> Genre: Folk </genre>
+    <year> Year: 2016 </year>
+  </song>
+  <song>
+    <title> Title: Time Warp  </title>
+    <artist> Artist: Richard O'Brien </artist>
+    <genre> Genre: Pop  </genre>
+    <year> Year: 1975 </year>
+  </song>
+  <song>
+    <title> Title: Radio Ga Ga </title>
+    <artist> Artist: Queen </artist>
+    <genre> Genre: Rock </genre>
+    <year> Year: 1984 </year>
+  </song>
+  <song>
+    <title> Title: Blister in the Sun </title>
+    <artist> Artist: Violent Femmes </artist>
+    <genre> Genre: Alternative/Indie </genre>
+    <year> Year: 1983 </year>
+  </song>
+  <song>
+    <title> Title: In Your Eyes </title>
+    <artist> Artist: Peter Gabriel </artist>
+    <genre> Genre: Rock </genre>
+    <year> Year: 1986 </year>
+  </song>
+  <song>
+    <title> Title: I Wish You Well </title>
+    <artist> Artist: Anna Waronker </artist>
+    <genre> Genre: Pop </genre>
+    <year> Year: 2002 </year>
+  </song>
+</playlist>
